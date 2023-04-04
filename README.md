@@ -7,3 +7,4 @@ Your main and only objective is for your cursor to not get hit by the error mess
 The music and most sprites in this game are property of Microsoft Inc. All right reserved.
 
 The game is also available on itch.io to be played in browser https://stickpal.itch.io/cursor95 
+![ezgif-2-627a0bc58d](https://user-images.githubusercontent.com/78269273/229845440-b4d435d4-5130-46e4-b5a0-042bd30ad44b.gif)
